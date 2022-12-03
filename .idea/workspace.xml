@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acf576b0-6924-4256-9287-d17d3c6fd265" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/ydmaia/Variables.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/ydmaia/Vararg.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/ydmaia/Vararg.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/projeto-kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/projeto-kotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/com/ydmaia/VarargKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/com/ydmaia/VarargKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,7 @@
       <recent name="C:\estudos\workspace-kotlin\src\main\com.ydmaia" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.VarargKt">
+  <component name="RunManager" selected="Kotlin.VariablesKt">
     <configuration name="HelloWorldKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ydmaia.HelloWorldKt" />
       <module name="projeto-kotlin.main" />
@@ -93,8 +95,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VariablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ydmaia.VariablesKt" />
+      <module name="projeto-kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.VariablesKt" />
         <item itemvalue="Kotlin.VarargKt" />
         <item itemvalue="Kotlin.HelloWorldKt (1)" />
         <item itemvalue="Kotlin.HelloWorldKt" />
